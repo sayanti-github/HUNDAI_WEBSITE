@@ -1,368 +1,10 @@
-<!doctype html>
-<html lang="en">
-    
-<head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-        <!-- All CSS -->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <!-- Owl-Carosel CSS -->
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <!-- Theme Default CSS -->
-        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-        <!-- Font Awesome CSS -->
-        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-        <!-- Magnific Popup CSS -->
-        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-        <!-- Meanmenu CSS -->
-        <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-        <!-- Flat Icon CSS -->
-        <link rel="stylesheet" href="assets/css/flaticon.css">
-        <!--  Nice Select CSS -->
-        <link rel="stylesheet" href="assets/css/nice-select.min.css">
-        <!--  Animate CSS -->
-        <link rel="stylesheet" href="assets/css/animate.min.css">
-        <!--  Slick CSS -->
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <!-- Style CSS -->
-        <link rel="stylesheet" href="assets/css/style.css">
-        <!-- Responsive CSS -->
-        <link rel="stylesheet" href="assets/css/responsive.css">
-
-        <!-- Title -->
-        <title>Mukesh Hyundai - Your one stop for best HYUNDAI Cars</title>
-        <!-- Favicon -->
-        <link rel="icon" type="image/png" href="assets/img/favicon.pngs">
-
-        <style type="text/css">
-            .particles-js-canvas-el {
-                position: absolute;
-                top: 0;
-            }
-            .book_service,.test_drive{
-                    background-color: #002c5f;
-                    color: #fff;
-                    padding: 10px 20px;
-                    margin-right: 20px;
-            }
-            .download_brochure{
-                background-color: #002c5f;
-                color: #fff;
-                padding: 6px 12px;
-            }
-            .download_brochure i,.download_brochure:hover{
-                color:#fff !important;
-            }
-            .pricingTable {
-    padding-bottom: 30px;
-    margin: 0px 2px 0px;
-    background: #fff;
-    text-align: center;
-    border-radius: 15px;
-    overflow: hidden;
-}
-.pricingTable .pricingTable-header {
-    padding: 20px 15px 45px;
-    background: #0147ac;
-    -webkit-clip-path: polygon(50% 100%, 100% 60%, 100% 0, 0 0, 0 60%);
-    clip-path: polygon(50% 100%, 100% 60%, 100% 0, 0 0, 0 60%);
-    position: relative;
-}
-.demo {
-    background: #f2f2f2;
-    padding: 60px 0px!important;
-}
-.pricingTable .pricingTable-header:before {
-    content: "";
-    width: 400px;
-    height: 400px;
-    border-radius: 50%;
-    position: absolute;
-    right: -50%;
-    top: -130%;
-    background: repeating-radial-gradient(rgba(255,255,255,0.05), rgba(255,255,255,0.2) 20%);
-    transition: all 0.5s ease 0s;
-}
-.pricingTable .title {
-    font-size: 40px;
-    color: #fff;
-    margin: 0;
-}
-.pricingTable .pricing-content {
-    padding: 30px 25px 0;
-    margin: 0;
-    list-style: none;
-}
-.pricingTable .pricing-content li {
-    font-size: 14px;
-    color: black;
-    line-height: 25px;
-    letter-spacing: 1px;
-    text-transform: capitalize;
-    border-bottom: 1px solid rgba(0,0,0,0.15);
-    margin-bottom: 3px;
-    position: relative;
-    padding: 7px;
-}
-.pricingTable .pricing-content li i {
-    color: #0147ac;
-    padding-right: 7px;
-}
-            .book_service:hover,.test_drive:hover{
-                color:#fff;
-            }
-            .test_drive{
-                margin-right:0px;
-            }
-            .mobile-nav img{
-                max-width: 235px;
-            }
-            .appoinment-section .appoinment-bg{
-                background-image: url(https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/venue-n-line/home-page-revised-pc-new.jpg);
-            }
-            @media screen and (max-width: 767px) {
-    .particles-js-canvas-el {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-            }
-
-        </style>
-        
-    </head>
-
-    <body>
-        <!-- Start Preloader -->
-        <div class="preloader">
-            <div class="loader">
-                <div class="spinner">
-                    <div class="double-bounce1"></div>
-                    <div class="double-bounce2"></div>
-                </div>
-            </div>
-        </div>
-        <!-- End Preloader -->   
-
-        <!-- Start Navbar Area -->
-       <div class="navbar-area">
-            <!-- Menu For Mobile Device -->
-            <div class="mobile-nav">
-                <a href="index.html" class="logo">
-                    <img src="assets/img/hyunda.png" alt="Image" >
-                </a>
-            </div>
-            <!-- Menu For Desktop Device -->
-            <div class="main-nav main-nav2">
-                <div class="container">
-                    <div class="row"><div class="col text-center" style="background-color: #fff;color: #000;text-transform: uppercase;">Website under maintenance</div></div>
-                    <nav class="navbar navbar-expand-md navbar-light">
-                        <div class="logo logo2">
-                            <a class="navbar-brand" href="index.html">
-                                <img src="assets/img/ico-logo.webp" class="logo-2" alt="Logo">
-                            </a>
-                            <a class="navbar-brand2" href="index.html">
-                                <img src="assets/img/hyunda.png" class="logo-2" alt="Logo" width="190px">
-                            </a>
-                        </div>
-                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                            <ul class="navbar-nav navbar-nav2 m-auto">
-                                <li class="nav-item">
-                                    <a href="/" class="nav-link">Home</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="/cars.html" class="nav-link dropdown-toggle">New Cars</a>
-                                       <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="Hyundai-I20-NLine-details.html" class="nav-link">Hyundai I20 N Line</a>
-                                        </li>
-                                         <li class="nav-item">
-                                            <a href="Alcazar.html" class="nav-link">Hyundai Alcazar</a>
-                                        </li>
-                                          <li class="nav-item">
-                                            <a href="new-i20.html" class="nav-link">Hyundai I20</a>
-                                        </li>
-                                          <li class="nav-item">
-                                            <a href="creta.html" class="nav-link">Hyundai Creta</a>
-                                        </li>
-                                          <li class="nav-item">
-                                            <a href="grand-i10.html" class="nav-link">Hyundai Grand I10 NIOS</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="aura.html" class="nav-link">Hyundai Aura</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="venue.html" class="nav-link">Hyundai Venue</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="verna.html" class="nav-link">Hyundai Verna</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="tucson.html" class="nav-link">Hyundai Tucson</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="/buyers-guide.html" class="nav-link dropdown-toggle">Buyer’s guide</a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">Outlet Locator</a>
-                                        </li>
-                                         <li class="nav-item">
-                                            <a href="/buyers-guide.html#insurance" class="nav-link">Insurance</a>
-                                        </li>
-                                         <li class="nav-item">
-                                            <a href="/accessories" class="nav-link">Accessories</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                 <li class="nav-item">
-                                    <a href="/hyundaipromise" class="nav-link">Hyundai Promise</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link dropdown-toggle">Service</a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="/booknow" class="nav-link">Book service</a>
-                                        </li>
-                                         <li class="nav-item">
-                                            <a href="/rsa.html" class="nav-link">Road side assistance</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="/finance.html" class="nav-link dropdown-toggle">Finance</a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="/finance.html#emicalculaor" class="nav-link">EMI Calculator</a>
-                                        </li>
-                                         <li class="nav-item">
-                                            <a href="/finance.html#documentation" class="nav-link">Documentation</a>
-                                        </li>
-                                         <li class="nav-item">
-                                            <a href="/finance.html#Loanenquiry" class="nav-link">Loan enquiry</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                          <!--  <ul class="navbar-nav navbar-nav2">
-                                <li class="nav-item">
-                                    <a class="nav-link search-ico" href="#"><i class="fa fa-search"></i></a>
-                                </li>  
-                                <li class="nav-item ">
-                                    <a class="nav-link cart-ico" href="#"><i class="flaticon-add-to-cart"></i></a>
-                                </li>
-                            </ul>-->
-                            <a class="book_service" href="booknow">Book Service</a>
-                            <a class="test_drive" href="testdrive">Test Drive</a>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-        <!-- End Navbar Area -->
-  
-        <!-- Start SearchBox Modal -->
-        <!-- <div class="search">
-            <button type="button" class="close">×</button>
-            <form>
-                <input type="search" value="" class="form-control" placeholder="Type Here..." />
-                <button type="submit" class="btn theme-btn"><i class="fa fa-search"></i> Search</button>
-            </form>
-        </div> -->
-        <!-- End SearchBox Modal -->
-
-        <!-- Start All Page Banner -->
-        <section class="all-page-banner item-one">
-            <div class="d-table">
-                <div class="d-tablecell">
-                    <div class="container">
-                        <div class="banner-text text-center">
-                            <h1>Test Drive</h1>
-                            <ul>
-                                <li>
-                                    <a style="color:#fff;" href="index.html">home</a>
-                                    <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                </li>
-                                <li>Test Drive</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End All Page Banner -->
-
-        <!-- Start Recently Added -->
-        <section class="appoinment-section py-5">
-            <div class="container">
-                <div class="appoinment-wrapper">
-                    <div class="row">   
-                        <div class="col-lg-6">
-                            <div class="appoinment-bg">
-                                <div class="d-table">
-                                    <div class="d-tablecell">
-                                        <div class="play-videos">
-                                            <a class="popup-youtube play-video2" href="https://www.youtube.com/watch?v=vWFtZhOkcFY">
-                                                <i class="flaticon-play"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="appoinment-form">
-                                <form>
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="name *">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" placeholder="email *">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="phone">
-                                    </div>
-                                    <div class="form-group">
-                                        <select class="form-control" style="display: none;">
-                                            <option data-display="Car">Car</option>
-                                            <option value="Hyundai i20 N Line">Hyundai i20 N Line</option>
-                                            <option value="Alcazar">Alcazar</option>
-                                            <option value="Hyundai i20">Hyundai i20</option>
-                                            <option value="Hyundai Creta">Hyundai Creta</option>
-                                            <option value="Hyundai Grand i10 NIOS">Hyundai Grand i10 NIOS</option>
-                                            <option value="Hyundai Aura">Hyundai Aura</option>
-                                            <option value="Hyundai Venue">Hyundai Venue</option>
-                                            <option value="Hyundai Verna">Hyundai Verna</option>
-                                            <option value="Hyundai Tucson">Hyundai Tucson</option>
-                                        </select><div class="nice-select form-control" tabindex="0"><span class="current">Hyundai Venue</span><ul class="list"><li data-value="Car" data-display="Car" class="option">Car</li><li data-value="Hyundai i20 N Line" class="option">Hyundai i20 N Line</li><li data-value="Alcazar" class="option">Alcazar</li><li data-value="Hyundai i20" class="option">Hyundai i20</li><li data-value="Hyundai Creta" class="option">Hyundai Creta</li><li data-value="Hyundai Grand i10 NIOS" class="option">Hyundai Grand i10 NIOS</li><li data-value="Hyundai Aura" class="option focus">Hyundai Aura</li><li data-value="Hyundai Venue" class="option selected">Hyundai Venue</li><li data-value="Hyundai Verna" class="option">Hyundai Verna</li><li data-value="Hyundai Tucson" class="option">Hyundai Tucson</li></ul></div>
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="message"></textarea>
-                                    </div>
-                                    <button type="submit" class="custom-btn2">send message</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Recently Added -->
-
-        <!-- Start Latest Motors -->
-        <!-- End Latest Motors -->
-
-        <!-- Start Top Footer -->
-        <footer class="footer-top">
+     <footer id="contact_information" class="footer-top">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-lg-2">
                         <div class="single-widget">
                             <div class="logo-image">
-                                <a href="#">
+                                <a href="/">
                                     <img src="https://i.postimg.cc/rmxW5CVS/mukeshwhite.png" alt="Logo" style="width:190px !important;">
                                 </a>
                             </div>
@@ -750,39 +392,6 @@
                             </div>
                         </div>
     </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Arambagh Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Ward-2, Arambagh, Near-BSNL office
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -1094,39 +703,6 @@
                             </div>
                         </div>
     </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Arambagh Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Ward-2, Arambagh, Near-BSNL office
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -1146,18 +722,36 @@
         <!-- Start Bottom Footer -->
         <footer class="footer-bottom">
             <div class="container">
-                <p class="envytheme-link">Copyright ©️ 2022 | Frostees India Pvt. Ltd.</p> 
+                <p class="envytheme-link">Copyright © 2022 | Mukesh Hyundai</p> 
             </div>
         </footer>
         <!-- End Bottom Footer -->
 
-
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "919147108242", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
         <!-- Jquery Min Js -->
-        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
+       <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap Min Js -->
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- Owl.Carousel Min Js -->
         <script src="assets/js/owl.carousel.min.js"></script>
+        
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        
         <!-- Nice Select Js -->
         <script src="assets/js/nice-select.min.js"></script>
         <!-- Meanmenu Min Js -->
@@ -1166,6 +760,8 @@
         <script src="assets/js/magnific-popup.min.js"></script>
         <!-- Slick Js -->
         <script src="assets/js/slick.min.js"></script>
+		<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+		 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
         <!-- WOW Js -->
         <script src="assets/js/wow.min.js"></script>
         <!-- Counter Js -->
@@ -1179,8 +775,23 @@
 		<!-- Contact JS -->
 		<script src="assets/js/contact-form-script.js"></script>
         <!-- Active Js -->
-        <script src="assets/js/active.js"></script>
-    </body>
+        <script src="assets/js/active.js?ver=<?php echo time();?>"></script>
+		<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.js"></script>
+		 
 
+		 <script src="js/custom.js"></script> 
+		 <?php
+		if(isset($_SESSION['success']))
+		{
+			?>
+			<script>
+			swal("Thank You!", "Your form has been submitted successfully.", "success");
+			</script>
+			
+		<?php
+unset($_SESSION['success']);	
+	}
+		?>
+    </body>
 
 </html>
