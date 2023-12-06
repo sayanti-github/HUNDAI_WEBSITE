@@ -426,6 +426,39 @@
                         </div>
                     </div>
 </div>
+<div class="carousel-item">
+    <div class="single-widget">
+                        <h3>Mukesh Hyundai Chandannagar Service Centre</h3>
+                        <div class="information">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                        Noapara, On Delhi Road Beside Intercity Dhaba, Chandannagar
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-smartphone-call"></i>
+                                        9270090099
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-whatsapp"></i>
+                                       9147108242
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-close-envelope"></i>
+                                        <span>mukeshhyundai@karini.in</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+</div>
 </div>
 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -746,6 +779,39 @@
                                     <a href="#">
                                         <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
                                         Ward-2, Arambagh, Near-BSNL office
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-smartphone-call"></i>
+                                        9270090099
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-whatsapp"></i>
+                                       9147108242
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-close-envelope"></i>
+                                        <span>mukeshhyundai@karini.in</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+</div>
+<div class="carousel-item">
+    <div class="single-widget">
+                        <h3>Mukesh Hyundai Chandannagar Showroom</h3>
+                        <div class="information">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                        Noapara, On Delhi Road Beside Intercity Dhaba, Chandannagar
                                     </a>
                                 </li>
                                 <li>
