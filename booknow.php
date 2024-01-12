@@ -71,7 +71,7 @@
                                         <input type="text" name="phone" class="form-control" placeholder="phone" required>
                                     </div>
                                     <div class="form-group">
-                                        <select class="form-control custom-select mr-sm-2 mb-0" id="servicecenter" name="servicecenter" required="">
+                                        <select class="form-control custom-select mr-sm-2 mb-0" id="servicecenter" name="servicecenter" required>
                                             <option value="0" selected="selected">Location </option>
                                                 <option value="Mukesh Hyundai Serampore Service Centre">Mukesh Hyundai Serampore Service Centre</option>
                                                 <option value="Mukesh Hyundai VIP Service Centre">Mukesh Hyundai VIP Service Centre</option>

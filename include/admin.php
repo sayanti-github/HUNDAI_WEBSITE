@@ -1,4 +1,13 @@
 <?php
+require 'php/PHPMailer.php';
+require 'php/Exception.php';
+require 'php/SMTP.php';
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+
  class admin extends DB{
 	 
 	function get_single_field($field,$table,$id,$value)
@@ -91,9 +100,12 @@
 			// More headers
 			$headers .= 'From: <no-reply@merakiads.in>' . "\r\n";
 			$subject = 'Book Now';
-			/* mail('bikramjit1988@gmail.com',$subject,$html,$headers); */
+			/* mail('bikramjit1988@gmail.com',$subject,$html,$headers); *///
+			$this->sendEmail($html, $subject, $email, $name);
 			$_SESSION['success'] = "Thanks for contacting us";
-			$this->locate('booknow');
+			$this->locate('booknow.php');
+
+			
 		}
 		
 	}
@@ -310,7 +322,37 @@
 		}
 		
 	}
-	
+
+	function sendEmail($html, $subject, $fromEmail, $name) {
+		$mail = new PHPMailer(true);
+
+		// Settings
+		$mail->IsSMTP();
+		$mail->CharSet = 'UTF-8';
+
+		$mail->Host       = "smtp.gmail.com";    // SMTP server example
+		$mail->SMTPDebug  = SMTP::DEBUG_SERVER;                     // enables SMTP debug information (for testing)
+		$mail->SMTPAuth   = true;                  // enable SMTP authentication
+		$mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+		$mail->Port       = 465;                    // set the SMTP port for the GMAIL server
+		$mail->Username   = "campusive@gmail.com";            // SMTP account username example
+		$mail->Password   = "ejsqjdvqaytygflr";            // SMTP account password example
+
+		$mail->setFrom('support@sysbean.com', 'Website Auto-Enquiry');
+		$mail->addAddress('sayanti@sysbean.com', 'Mukesh Hyundai');
+		// $mail->addAddress('tinnychowdhury1999@gmail.com', 'Mukesh Hyundai');
+        $mail->addAddress('soumajit@karini.in', 'Mukesh Hyundai');
+		$mail->addAddress('digital.marketing@karini.in', 'Mukesh Hyundai');
+		$mail->addAddress('mukeshhyundai@karini.in', 'Mukesh Hyundai');
+		$mail->addReplyTo($fromEmail, $name);
+
+		// Content
+		$mail->isHTML(true);                       // Set email format to HTML
+		$mail->Subject = $subject;
+		$mail->Body    = $html;
+
+		$mail->send();
+	}
 	
  }
 ?>

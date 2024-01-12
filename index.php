@@ -240,23 +240,7 @@
             }
         }
     </style>
-<!-- Meta Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '362105523138092');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -1025,7 +1009,7 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                                 </div>
                                 <div class="add-box-bottom">
                                     <a href="exter.html">
-                                        <h5>Rs. 5,99,900 - 10,14,990 Lakh*</h5>
+                                        <h5> Soon </h5>
                                     </a>
                                     <ul class="react">
                                         <li><i class="flaticon-heart"></i></li>
@@ -1633,17 +1617,17 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
 
     <!-- Start Top Footer -->
     <footer id="contact_information" class="footer-top">
-    <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-lg-2">
-                        <div class="single-widget">
-                            <div class="logo-image">
-                                <a href="#">
-                                    <img src="https://i.postimg.cc/rmxW5CVS/mukeshwhite.png" alt="Logo" style="width:190px !important;">
-                                </a>
-                            </div>
-                            <p>The success of our dealership is due to the customer centric approach we adopt in all our operations. We are sure you will have a memorable experience dealing with us.</p>
-                            <!-- <div class="social-icon">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-2">
+                    <div class="single-widget">
+                        <div class="logo-image">
+                            <a href="#">
+                                <img src="https://i.postimg.cc/rmxW5CVS/mukeshwhite.png" alt="Logo" style="width:190px !important;">
+                            </a>
+                        </div>
+                        <p>The success of our dealership is due to the customer centric approach we adopt in all our operations. We are sure you will have a memorable experience dealing with us.</p>
+                        <!-- <div class="social-icon">
                                 <ul>
                                     <li>
                                         <a href="#">
@@ -1672,816 +1656,754 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                                     </li>
                                 </ul>
                             </div> -->
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-2">
+                    <div class="single-widget">
+                        <h3>quick links</h3>
+                        <div class="page-list">
+                            <ul>
+                                <li>
+                                    <a href="/">
+                                        Home
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/cars.html">
+                                        New Cars
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="buyers-guide.html">
+                                        Buyers Guide
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="accessories">
+                                        accessories
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="hyundaipromise">
+                                        Hyundai Promise
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="booknow">
+                                        Services
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="finance.html">
+                                        Finance
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="contactus.html">
+                                        Contact Us
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-2">
-                        <div class="single-widget">
-                            <h3>quick links</h3>
-                            <div class="page-list">
-                                <ul>
-                                    <li>
-                                        <a href="/">
-                                            Home
-                                        </a>
-                                    </li>
-                                    <li>
-                                         <a href="/cars.html">
-                                             New Cars
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="buyers-guide.html">
-                                            Buyers Guide
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="accessories">
-                                            accessories
-                                        </a>
-                                    </li>
-                                       <li>
-                                        <a href="hyundaipromise">
-                                            Hyundai Promise
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="booknow">
-                                            Services
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="finance.html">
-                                            Finance
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contactus.html">
-                                            Contact Us
-                                        </a>
-                                    </li>
-                                </ul>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai VIP Service Centre</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    PP 101, Bangaon - Kulpi Rd, Nazrul Islam Avenue, Kestopur, Kolkata, West Bengal 700059
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Serampore Service Center</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Bangihati More, Old, Delhi Roadnear Bhusan Steel, SeramporeHooghly, West Bengal 712203
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Chandannagar Service Center</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Now Para, Chandannagar, Vill - Jarura, PS - Polba, Dist - Hooghly, 712138
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +918584873409
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Service Center Khidirpur</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    96 CGR KARL MARX SARANIOPPOSIT KHIDIRPUR RAILWAY STATIONKOLKATA, West Bengal 700023
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Service Center - Gouripur, Birati</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Bus Stand, Gouripur 30B & 45, Mahajati Nagar, Madhyamgram, BanubankraKolkata, West Bengal 700051
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Service Center Chetla</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    82 CHETLA ROAD NEAR RUPANTAR CLUBKOLKATA, West Bengal 700027
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Khardah Service Centre</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    16/16, Parmanand Bhawan Lichu Bagan, Lane, Khardah, Kolkata, West Bengal 700118
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919874180802
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>khardahservice@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Guwahati Service Centre</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    House No-1, Dearm Land Apartments, Basistha Road, Naharani path, Guwahati,Assam – 781006
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919874180802
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Rangia Service Centre</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Rangia IOC Gopal Nagar, PO/PS: Rangia , Near Kerosene Oil Depot, Kamrup,Assam – 781354
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919874180802
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Bijoynagar Service Centre</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Vill/PO: Uparhali, PS: Palashbari, Dist: Kamrup , Near Axis Bank, Bijoynagar,Assam – 781122
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919874180802
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Guwahati Service Centre</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    CERAGEM COMPLEX, Near LIC Dispur Branch , Ganeshguri Chariali, Guwahati,Assam - 781005
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919874180802
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-       <div class="single-widget">
-                            <h3>Mukesh Hyundai VIP Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            PP 101, Bangaon - Kulpi Rd, Nazrul Islam Avenue, Kestopur, Kolkata, West Bengal 700059
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919270090099
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Showroom Birati</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Address: 157, Jessore road, sukanta nagarKolkata, West Bengal 700133
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Showroom, Serampore</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Old DelhiRoad.Bangihati More P.O Mullick Para, P.S, Serampore Dist, West Bengal 712203
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                            <div class="single-widget">
+                                    <h3>Mukesh Hyundai Showroom Chandannagar</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Now Para, Chandannagar, Vill - Jarura, PS - Polba, Dist - Hooghly, 712138
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    +919051622577
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai VIP Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Nazrul Islam Avenue, PP 101 Nazrul, Bangaon - Kulpi Rd, Kestopur, Kolkata, West Bengal 700059
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Khardah Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    16/16, Parmanand Bhawan Lichu Bagan, Lane, Khardah, Kolkata, West Bengal 700118
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai HAZRA Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    44/4B, Hazra Rd, Ballygunge, Kolkata, West Bengal 700019
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Guwahati Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Kushan Plaza, GS Road,Dispur, Guwahati,Assam - 781006
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Bijoynagar Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Vill/PO: Uparhali, PS: Palashbari, Dist: Kamrup , Near Axis Bank, Bijoynagar,Assam - 781122
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Rangia Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Rangia IOC Gopal Nagar, PO/PS: Rangia , Near Kerosene Oil Depot, Kamrup,Assam – 781354
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="single-widget">
+                                    <h3>Mukesh Hyundai Barpeta Showroom</h3>
+                                    <div class="information">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
+                                                    Barpeta Sundaridia Kalayahati , Near PWD office, Barpeta,Assam - 781301
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-smartphone-call"></i>
+                                                    9270090099
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-whatsapp"></i>
+                                                    9147108242
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="flaticon-close-envelope"></i>
+                                                    <span>mukeshhyundai@karini.in</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-    </div>
-    <div class="carousel-item">
-       <div class="single-widget">
-                            <h3>Mukesh Hyundai Serampore Service Center</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Bangihati More, Old, Delhi Roadnear Bhusan Steel, SeramporeHooghly, West Bengal 712203
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919270090099
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Service Center Khidirpur</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            96 CGR KARL MARX SARANIOPPOSIT KHIDIRPUR RAILWAY STATIONKOLKATA, West Bengal 700023
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919270090099
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Service Center - Gouripur, Birati</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Bus Stand, Gouripur 30B & 45, Mahajati Nagar, Madhyamgram, BanubankraKolkata, West Bengal 700051
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Service Center Chetla</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            82 CHETLA ROAD NEAR RUPANTAR CLUBKOLKATA, West Bengal 700027
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919270090099
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-       <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Khardah Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            16/16, Parmanand Bhawan Lichu Bagan, Lane, Khardah, Kolkata, West Bengal 700118
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919874180802
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>khardahservice@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Guwahati Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            House No-1, Dearm Land Apartments, Basistha Road, Naharani path, Guwahati,Assam – 781006
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919874180802
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Rangia Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Rangia IOC Gopal Nagar, PO/PS: Rangia , Near Kerosene Oil Depot, Kamrup,Assam – 781354
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919874180802
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-     <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Bijoynagar Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Vill/PO: Uparhali, PS: Palashbari, Dist: Kamrup , Near Axis Bank, Bijoynagar,Assam – 781122
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919874180802
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-     <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Guwahati Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            CERAGEM COMPLEX, Near LIC Dispur Branch , Ganeshguri Chariali, Guwahati,Assam - 781005
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919874180802
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Arambagh Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Ward-2, Arambagh, Near-BSNL office
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Chandannagar Service Centre</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Noapara, On Delhi Road Beside Intercity Dhaba, Chandannagar
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-       <div class="single-widget">
-                            <h3>Mukesh Hyundai Showroom Birati</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Address: 157, Jessore road, sukanta nagarKolkata, West Bengal 700133
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            +919270090099
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Showroom, Serampore</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Old DelhiRoad.Bangihati More P.O Mullick Para, P.S, Serampore Dist, West Bengal 712203
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-        <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai VIP Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Nazrul Islam Avenue, PP 101 Nazrul, Bangaon - Kulpi Rd, Kestopur, Kolkata, West Bengal 700059
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Khardah Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            16/16, Parmanand Bhawan Lichu Bagan, Lane, Khardah, Kolkata, West Bengal 700118
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-     <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai HAZRA Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            44/4B, Hazra Rd, Ballygunge, Kolkata, West Bengal 700019
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Guwahati Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                           Kushan Plaza, GS Road,Dispur, Guwahati,Assam - 781006
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-     <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Bijoynagar Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                           Vill/PO: Uparhali, PS: Palashbari, Dist: Kamrup , Near Axis Bank, Bijoynagar,Assam - 781122
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Rangia Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                           Rangia IOC Gopal Nagar, PO/PS: Rangia , Near Kerosene Oil Depot, Kamrup,Assam – 781354
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-      <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Barpeta Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                           Barpeta Sundaridia Kalayahati , Near PWD office, Barpeta,Assam - 781301
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Arambagh Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Ward-2, Arambagh, Near-BSNL office
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="single-widget">
-                            <h3>Mukesh Hyundai Chandannagar Showroom</h3>
-                            <div class="information">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>
-                                            Noapara, On Delhi Road Beside Intercity Dhaba, Chandannagar
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-smartphone-call"></i>
-                                            9270090099
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-whatsapp"></i>
-                                           9147108242
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="flaticon-close-envelope"></i>
-                                            <span>mukeshhyundai@karini.in</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
                 </div>
             </div>
+        </div>
     </footer>
     <!-- End Top Footer -->
 
@@ -2553,13 +2475,14 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
     <script src="assets/js/active.js"></script>
     <script src="js/custom.js"></script>
 </body>
-<!-- <script>
+
+<script>
     jQuery('body').cornerpopup({
         variant: 10,
         colors: "#002c5f",
         content: "<div class='main-image-box'><img src='assets/pop-up.jpeg'><a href='#book_drive'>Inquire Now</a></div>",
     });
-</script> -->
+</script>
 <script type="text/javascript">
     /* ---- particles.js config ---- */
 
@@ -2787,6 +2710,16 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
         "retina_detect": true
     });
 </script>
+<?php
+if (isset($_SESSION['success'])) {
+?>
+    <script>
+        swal("Thank You!", "Your form has been submitted successfully.", "success");
+    </script>
 
+<?php
+    unset($_SESSION['success']);
+}
+?>
 
 </html>
