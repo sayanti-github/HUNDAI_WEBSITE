@@ -1,6 +1,12 @@
 <?php include('include/config.php'); ?>
 <?php include('include/header.php'); ?>
 <style>
+    .dkuywW {
+    position: relative;
+    width: 64px;
+    margin: auto;
+    display: none!important;
+}
 .error{color:red;}
 .all-page-banner.item-one {
     background-image: url(https://www.hyundai.com/content/dam/hyundai/in/en/images/ClicktoBuy/all-car-range-image-pc.jpg);

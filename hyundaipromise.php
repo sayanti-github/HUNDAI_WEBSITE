@@ -1,6 +1,12 @@
 <?php include('include/config.php'); ?>
 <?php include('include/header.php'); ?>
   <style>
+    .dkuywW {
+    position: relative;
+    width: 64px;
+    margin: auto;
+    display: none!important;
+}
   @media screen and (min-width: 992px) {
         .single-add-box .image img{
         height: 280px;

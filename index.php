@@ -32,13 +32,19 @@
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/corner-popup.min.css">
-
+     
     <!-- Title -->
     <title>Mukesh Hyundai - Your one stop for best HYUNDAI Cars</title>
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/img/favicon.pngs">
+    <link rel="icon" type="image/png" href="assets/img/logo/favicon.png">
 
     <style type="text/css">
+        .dkuywW {
+    position: relative;
+    width: 64px;
+    margin: auto;
+    display: none!important;
+}
         .error {
             color: red;
         }
@@ -240,23 +246,7 @@
             }
         }
     </style>
-<!-- Meta Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '362105523138092');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -332,6 +322,12 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                                     <li class="nav-item">
                                         <a href="kona.html" class="nav-link">Hyundai Kona Electric</a>
                                     </li>
+                                    <li class="nav-item">
+                                            <a href="ionic-5.html" class="nav-link">Hyundai IONIQ 5</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="exter.html" class="nav-link">Hyundai EXTER</a>
+                                        </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -758,7 +754,8 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                         <div class="single-add-box">
                             <div class="image">
                                 <a href="creta.html">
-                                    <img src="https://i.postimg.cc/1RjRfxQD/BACKGROUND-CRETA.png" alt="Image">
+                                    <!-- https://i.postimg.cc/1RjRfxQD/BACKGROUND-CRETA.png -->
+                                    <img src="https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-thumbnail/Thumbnail/creta-suvpc.png" alt="Image">
                                 </a>
                             </div>
                             <div class="image-caption-wrapper">
@@ -789,7 +786,8 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                         <div class="single-add-box">
                             <div class="image">
                                 <a href="grand-i10.html">
-                                    <img src="./assets/img/gallery/nios.png" alt="Image">
+                                    <!-- ./assets/img/gallery/nios.png -->
+                                    <img src="https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-thumbnail/Thumbnail/grandi10nios_thumbnail_pc.png" alt="Image">
                                 </a>
                             </div>
                             <div class="image-caption-wrapper">
@@ -821,7 +819,8 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                         <div class="single-add-box">
                             <div class="image">
                                 <a href="aura.html">
-                                    <img src="./assets/img/gallery/aura.png" alt="Image">
+                                    <!-- ./assets/img/gallery/aura.png -->
+                                    <img src="https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-thumbnail/Thumbnail/aura_thumbnail_pc.png" alt="Image">
                                 </a>
                             </div>
                             <div class="image-caption-wrapper">
@@ -884,7 +883,8 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                         <div class="single-add-box">
                             <div class="image">
                                 <a href="verna.html">
-                                    <img src="./assets/img/verna/HOME PAGE - VERNA.png" alt="Image">
+                                    <!-- ./assets/img/verna/HOME PAGE - VERNA.png -->
+                                    <img src="https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-thumbnail/Thumbnail/verna_thumbanil_pc.png" alt="Image">
                                 </a>
                             </div>
                             <div class="image-caption-wrapper">
@@ -1025,7 +1025,7 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                                 </div>
                                 <div class="add-box-bottom">
                                     <a href="exter.html">
-                                        <h5>Rs. 5,99,900 - 10,14,990 Lakh*</h5>
+                                        <h5>5,99,900 - 10,14,990 Lakh</h5>
                                     </a>
                                     <ul class="react">
                                         <li><i class="flaticon-heart"></i></li>
@@ -1631,9 +1631,9 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
     </section>
     <!-- End Subscribe Section -->
 
-    <!-- Start Top Footer -->
-    <footer id="contact_information" class="footer-top">
-    <div class="container">
+        <!-- Start Top Footer -->
+        <footer id="contact_information" class="footer-top">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-lg-2">
                         <div class="single-widget">
@@ -1712,6 +1712,11 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                                     <li>
                                         <a href="finance.html">
                                             Finance
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="privacy-policy.html">
+                                            Privacy Policy
                                         </a>
                                     </li>
                                     <li>
@@ -2482,8 +2487,8 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
                     </div>
                 </div>
             </div>
-    </footer>
-    <!-- End Top Footer -->
+        </footer>
+        <!-- End Top Footer -->
 
     <!-- Start Bottom Footer -->
     <footer class="footer-bottom">
@@ -2553,13 +2558,14 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
     <script src="assets/js/active.js"></script>
     <script src="js/custom.js"></script>
 </body>
-<!-- <script>
+
+<script>
     jQuery('body').cornerpopup({
         variant: 10,
         colors: "#002c5f",
         content: "<div class='main-image-box'><img src='assets/pop-up.jpeg'><a href='#book_drive'>Inquire Now</a></div>",
     });
-</script> -->
+</script>
 <script type="text/javascript">
     /* ---- particles.js config ---- */
 
@@ -2787,6 +2793,16 @@ src="https://www.facebook.com/tr?id=362105523138092&ev=PageView&noscript=1"
         "retina_detect": true
     });
 </script>
+<?php
+if (isset($_SESSION['success'])) {
+?>
+    <script>
+        swal("Thank You!", "Your form has been submitted successfully.", "success");
+    </script>
 
+<?php
+    unset($_SESSION['success']);
+}
+?>
 
 </html>

@@ -2,6 +2,12 @@
 <?php include('include/header.php'); ?>
 <?php $result = $admin->get_single_result('hy_promise','id',$_GET['id'],'Hyundai Promise'); ?>
  <style type="text/css">
+    .dkuywW {
+    position: relative;
+    width: 64px;
+    margin: auto;
+    display: none!important;
+}
             .particles-js-canvas-el {
                 position: absolute;
                 top: 0;

@@ -12,6 +12,12 @@ button.slick-next.slick-arrow{
         right: -26px;
     bottom: 34px;
 }
+.dkuywW {
+    position: relative;
+    width: 64px;
+    margin: auto;
+    display: none!important;
+}
 @media screen and (max-width: 600px) {
   button.slick-prev.slick-arrow{
            left: 31px;
